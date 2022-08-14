@@ -17,5 +17,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(binding.getRoot());
 
         System.out.println("Hello");
+        System.out.println("Hello2");
     }
 }
